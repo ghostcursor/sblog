@@ -1,7 +1,7 @@
 # sBlog
 The blog system that's as secure as you are!
 
-While setting up the homepage for the Amateur Security Research Group I wanted to take a simple minimalistic approach that ignored the bloat of most current CMSs (this bloat exists for a reason and has the purpose, so if you need it use it). But I also wanted to avoid having to edit an "index" page every time I added a breifing or a blog post. So I went on the hunt for a simple blogging platform that just took posts, listed them, then displayed them. No logins, no comments, no fancy themes, no add-ons, no databases. Nothing else at all.
+While setting up a homepage I wanted to take a simple minimalistic approach that ignored the bloat of most current CMSs (this bloat exists for a reason and has the purpose, so if you need it use it). But I also wanted to avoid having to edit an "index" page every time I added a breifing or a blog post. So I went on the hunt for a simple blogging platform that just took posts, listed them, then displayed them. No logins, no comments, no fancy themes, no add-ons, no databases. Nothing else at all.
 
 Well that didn't exists. Everything had some sort of editor, or required MySQL, or was just a little too much bloat. So I solved this problem the best way I know how. I wrote my own.
 
